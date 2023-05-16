@@ -1,3 +1,7 @@
+'''
+ O set vai eliminar os valores repetidos, e não vai manter a ordem dos elementos.
+'''
+
 numeros = set([1, 2, 3, 1, 3, 4])
 print(numeros)  # {1, 2, 3, 4}
 
